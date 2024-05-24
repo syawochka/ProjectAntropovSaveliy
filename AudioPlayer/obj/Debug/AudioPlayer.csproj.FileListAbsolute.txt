@@ -1,0 +1,17 @@
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\Syawochka\Desktop\Документы\Учеба\Языки программирования\Проекты\AudioPlayer\obj\Debug\AudioPlayer.MP3Player.resources
